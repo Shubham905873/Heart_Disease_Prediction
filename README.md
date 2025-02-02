@@ -2,7 +2,8 @@
 # Heart Disease Prediction Project - By Shubham_Kumar
 
 
-Description:
+## Description:
+
 ● Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide.
 Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common 
 event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
@@ -11,8 +12,10 @@ event caused by CVDs and this dataset contains 11 features that can be used to p
 hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
 
-Domain: Healthcare
-Domain Analysis:
+## Domain: Healthcare
+
+### Domain Analysis:
+
 There are 13 columns in the lables dataset, where the patient_id column is a unique and random identifier and all features are described in the section below.
 slope_of_peak_exercise_st_segment (type: int):
          the slope of the peak exercise ST segment, an electrocardiography read out indicating quality of blood flow to the heart
